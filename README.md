@@ -23,7 +23,7 @@ My ultimate goal is to contribute meaningfully to the field of data science and 
 
 Feel free to connect with me. I'm always eager to meet fellow learners, developers, and data enthusiasts. Let's learn and grow together!
 
-<a href="https://linkedin.com/in/dishantkasushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishantkasushik" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dishant-kaushik-1a0562297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishantkasushik" height="30" width="40" /></a>
 </p> LINKED 
 
 ## 🌐Languages and Tools!
