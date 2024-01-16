@@ -1,6 +1,4 @@
-![GITHUB PROFILE COSTUM](https://github.com/dishant2005/dishant2005/assets/147476749/e5f9cb48-d85b-4619-91e0-d86249b057c2)# 👋 Hello World! I'm Dishant Kaushik
-
-![Header](C:\Users\kaush\OneDrive\Desktop\GITHUB PROFILE COSTUM.png)
+<h1 align="center">Hi 👋, I'm Dishant Kaushik</h1>
 
 ## 🚀 About Me
 
@@ -25,11 +23,15 @@ My ultimate goal is to contribute meaningfully to the field of data science and 
 
 Feel free to connect with me. I'm always eager to meet fellow learners, developers, and data enthusiasts. Let's learn and grow together!
 
-[![LinkedIn](https://th.bing.com/th/id/OIP.ozDiSGJlUqI6815cRlJiNAHaHa?w=170&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)](https://www.linkedin.com/in/dishant-kaushik-1a0562297/)[![GitHub](https://th.bing.com/th/id/OIP.8SVgggxQcO5L6Dw_61ac4QHaEK?rs=1&pid=ImgDetMain)](https://github.com/dishant2005)
+<a href="https://linkedin.com/in/dishantkasushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishantkasushik" height="30" width="40" /></a>
+</p>
 
-## 📊 GitHub Stats
+## 🌐Languages and Tools!
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## 📊 GitHub Stats!
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishant2005&show_icons=true&theme=radical)
 
 ## 🎓 Education
 
